@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+} 
+
+body{
+  background: #202020;
+}
+
+nav li {
+  font-family: Arial;
+  font-weight: 900;
+  color: black;
+  
+}
+
+header {
+  padding: 150px  0px;
+  }
+
+header img{
+  margin-bottom: 40px;
+}  
+
+header h1{
+  margin: 30px 0px;
+}
+
+section {
+  padding: 100px ;
+  background: #FF2C21;
+  }
+
+section h1{
+  margin-bottom: 40px;
+ }
+
+section h2{
+  margin: 30px 0px; 
+}
+
+section img{
+  margin-top: 60px;
+}
+
+section h4{
+  margin-bottom: 20px;
+}
+
+section a{
+  color: black;
+}
+
+section h5 a{
+  color: red;
+}
+
+footer{
+  background: #202020;
+
+}
